@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [I. Course Overview](lesson-1/course_overview.md)
    * [Able company and engineering values](lesson-1/a--values.md)
-   * [Factors of code quality](lesson-1/factors.md)
+   * [Factors of code quality](lesson-1/b--code-quality.md)
    * [Training criteria and objectives](lesson-1/criteria.md)
    * [Lesson overview](lesson-1/overview.md)
 * [II. Code Clarity](lesson-2/code_clarity.md)
