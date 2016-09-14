@@ -4,9 +4,9 @@ The code we deliver at Able is a critical part of what we do. It is important to
 
 ### Able strives to deliver code that is: ###
 
-### 1. Organized ###
-### 2. Readable ###
-### 3. Extensible ###
+### 1. Organized
+### 2. Readable
+### 3. Extensible
 
 # 1. Code organization
 
