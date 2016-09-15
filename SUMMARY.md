@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* [I. Course Overview](lesson-1/course_overview.md)
+* [I. Core Values](lesson-1/course_overview.md)
    * [Able company and engineering values](lesson-1/a--values.md)
    * [What makes high quality code?](lesson-1/b--code-quality.md)
    * [Training criteria and objectives](lesson-1/criteria.md)
