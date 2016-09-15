@@ -10,7 +10,7 @@
    * [Why we care about clarity](lesson-2/why.md)
    * [Pros and cons](lesson-2/pros_and_cons.md)
    * [Examples and code smells](lesson-2/examples_and_code_smells.md)
-   * Code Clarity
+   * [Code Clarity](lesson-2/code_clarity.md)
 * III. Writing Readable Code
    * Why we care about readable code (clarity)
    * What it means to write readable code
