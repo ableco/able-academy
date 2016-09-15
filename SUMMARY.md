@@ -8,6 +8,7 @@
    * [Lesson overview](lesson-1/overview.md)
 * [II. Code Clarity](lesson-2/code_clarity.md)
    * [Why we care about clarity](lesson-2/why.md)
+   * [Code Clarity](lesson-2/code_clarity.md)
    * [Pros and cons](lesson-2/pros_and_cons.md)
    * [Examples and code smells](lesson-2/examples_and_code_smells.md)
    * Code Clarity
