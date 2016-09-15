@@ -24,7 +24,7 @@ The most direct way code organization can be self-reinforcing is by limiting amb
 ** Rough notes -- need to refine: ** 
 1. Code reviews are an essential tool to ensure organizational structures remain intact.
 2. Naming conventions with a consistent pattern are easier to follow when nming new objects. These pattern should be focused and leave little room for deviation. Inconsistent naming or ambiguous conventions reduce focus and detract from established patterns.
-3. Rails is an example of disorganized code that does not reinforce any structure. Presentational code can live in views or controllers, business logic can exist in controllers or models, and placement is usually a judgment call determined by the current contributor. Equally unclear are the different roles of Concerns, Services, etc.
+3. Rails is an example of disorganized code that does not reinforce any structure. Presentation layer code can live in views or controllers, business logic can exist in controllers or models, and placement is usually a judgment call determined by the current contributor. Equally unclear are the different roles of Concerns, Services, etc.
 
 # 2. Readable code
 
