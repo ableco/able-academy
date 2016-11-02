@@ -7,15 +7,28 @@ Able Academy Lesson 3
 #### 2. Readability: How individual components are built
 #### 3. Extensibility: Safeguards for development that maintain organization and readability
 
-### Organization
+## Organization
 
-Well-organized code maintains a predictable structure that is self-reinforcing over time. Examples include:
+Well-organized code maintains a predictable structure that is self-reinforcing over time.
 
-* Coherent naming conventions that help to inform how to name new objects.
-* An intuitive directory structure that makes it obvious what code belongs where.
-* Well-defined responsibilities for each section of the codebase. Redux action, reducers, and state are a good example of code that is not vague or ambiguous in its purpose.
+* Increases clarity and understanding of what the code is doing at a high level
+* Focused around interaction between objects
+* Larger in scope: application architecture, infrastructure, or code paths
+* Clear file structure is just the beginning!
 
-The most direct way code organization can be self-reinforcing is by limiting ambiguity and edge cases. Well-organized code strives to be consistent and predictable. Over time, edge cases introduce breaks in consistency that eventually undermine the code's predictability.
+### General Strategies
+
+* Bias towards modularity, but keep it maintainable!
+  * Code that is too modular will be impossible to maintain
+  * Example: Separation of API and client code has many benefits with limited downside
+  * Anti-example: Original MVC concept did not allow models and views to communicate
+* Minimize coupling between objects
+  * Avoid unmanageable webs of dependency
+  * Unidirectional flows do this well
+* Consistency and repeatability are key
+  * Consistency => predictability => understandability
+  * Also allows for interchangeability and code reuse
+  * Example: API endpoints using the same method to render responses
 
 ### Readability
 
